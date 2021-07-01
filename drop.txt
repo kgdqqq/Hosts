@@ -1,0 +1,1051 @@
+# ------屏蔽    微软-------------------------
+||buding.ijinshan.com
+||download.microsoft.com
+||tc.dlservice.microsoft.com
+||download.windowsupdate.com
+||qh.dlservice.microsoft.com
+||cn.bing.com^
+127.0.0.1 watson.microsoft.com
+127.0.0.1 watson.ppe.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com
+127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
+||config.edge.skype.com^$important
+||settings-win.data.microsoft.com
+
+
+
+
+#127.0.0.1 mi.gdt.qq.com
+#127.0.0.1 pp.myapp.com
+#127.0.0.1 qzonestyle.gtimg.cn
+#127.0.0.1 pgdt.gtimg.cn
+#127.0.0.1 v.gdt.qq.com
+
+
+
+
+# ------屏蔽WinRAR的广告-------------------------
+127.0.0.1 ad.winrar.com.cn
+127.0.0.1 www.winrar.com.cn
+
+
+# ------屏蔽百度的广告---------------------------
+127.0.0.1 cm.baidu.com
+127.0.0.1 cm.pos.baidu.com
+127.0.0.1 cpro.baidu.com
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 cpro2.baidustatic.com
+127.0.0.1 cpu.baidu.com
+127.0.0.1 crs.baidu.com
+127.0.0.1 drmcmm.baidu.com
+127.0.0.1 dup.baidustatic.com
+127.0.0.1 ubmcmm.baidustatic.com
+127.0.0.1 eclick.baidu.com
+127.0.0.1 em.baidu.com
+127.0.0.1 f10.baidu.com
+127.0.0.1 f11.baidu.com
+127.0.0.1 f12.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 pos.baidu.com
+127.0.0.1 push.zhanzhang.baidu.com 
+127.0.0.1 share.baidu.com
+127.0.0.1 t10.baidu.com
+127.0.0.1 t11.baidu.com
+127.0.0.1 t12.baidu.com
+127.0.0.1 union.baidu.com
+127.0.0.1 wn.pos.baidu.com
+127.0.0.1 zz.bdstatic.com
+127.0.0.1 cbjs.baidu.com
+127.0.0.1 cbjslog.baidu.com
+127.0.0.1 cpro.baidu.com
+127.0.0.1 cpro.baidustatic.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 pos.baidu.com
+127.0.0.1 static1.baifendian.com
+||wifi.baidu.com^$important
+||wifi.*.baidu.com^$important
+||lewan.baidu.com^$
+# ------屏蔽爱奇艺广告---------------------------
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 list3.ppstream.com.iqiyi.com
+127.0.0.1 mixer.cupid.iqiyi.com
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 notice.ppstream.com
+127.0.0.1 pic1.qiyipic.com
+127.0.0.1 qiyu.iqiyi.com
+127.0.0.1 t7z.cupid.iqiyi.com
+||policy.video.iqiyi.com^
+
+
+
+
+# ------屏蔽谷歌的广告---------------------------
+127.0.0.1 adservice.google.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 www.googletagmanager.com
+
+
+
+
+
+
+# ------阿里系广告---------------------------
+127.0.0.1 gma.alicdn.com
+127.0.0.1 re.taobao.com
+127.0.0.1 gtms01.alicdn.com
+127.0.0.1 gtms02.alicdn.com
+127.0.0.1 gtms03.alicdn.com
+127.0.0.1 gtms04.alicdn.com
+127.0.0.1 srd.simba.taobao.com
+127.0.0.1 redirect.simba.taobao.com
+127.0.0.1 acookie.taobao.com
+127.0.0.1 g.click.taobao.com
+127.0.0.1 a.alimama.cn
+127.0.0.1 a1.alicdn.com
+
+
+# ------屏蔽网易的广告---------------------------
+127.0.0.1 you.163.com
+127.0.0.1 cms-bucket.nosdn.127.net
+||so.open.163.com/v/list.htm?pid=
+
+
+
+
+# ------屏蔽搜狐的广告---------------------------
+127.0.0.1 pingback.sogou.com
+127.0.0.1 js.tv.itc.cn
+127.0.0.1 643108e7617ef.cdn.sohucs.co
+127.0.0.1 643108e7617ef.cdn.sohucs.com
+127.0.0.1 p.lu.sogou.com
+127.0.0.1 ping.pinyin.sogou.com
+127.0.0.1 p.inte.sogou.com
+127.0.0.1 ping.acc.sogou.com
+127.0.0.1 pbd.sogou.com
+127.0.0.1 pb.sogou.com
+127.0.0.1 iwan.sogou.com
+127.0.0.1 irnvf.lu.sogou.com
+127.0.0.1 get.sogou.com
+#127.0.0.1 123.sogou.com
+127.0.0.1 shouji.sougou.com
+127.0.0.1 vjoz.lu.sogou.com
+127.0.0.1 vps.inte.sogou.com
+127.0.0.1 wan.sogou.com
+127.0.0.1 wb.brand.sogou.com
+127.0.0.1 wds.inte.sogoucdn.com
+127.0.0.1 lk.brand.sogou.com
+127.0.0.1 pull.push.sogou.com
+127.0.0.1 s.go.sohu.com
+127.0.0.1 cpc.brand.sogou.com
+127.0.0.1 cpc.sogou.com
+127.0.0.1 cpc.sohu.com
+127.0.0.1 qpb.sohu.com
+127.0.0.1 t.ads.sohu.com
+127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
+127.0.0.1 x1.go.sohu.com
+127.0.0.1 xls.go.sohu.com
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 ad.mail.sohu.com
+127.0.0.1 adnet.sohu.com
+127.0.0.1 s.go.sohu.com
+127.0.0.1 suvset.sohu.com
+127.0.0.1 3rd.t.sohu.com
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 xls.go.sohu.com
+127.0.0.1 x1.go.sohu.com
+127.0.0.1 txt.go.sohu.com
+127.0.0.1 corp.sohu.com
+||sohu.com.cn/hdpb.gif?
+||sohu.com/clk.gif?
+||sohu.com/count/
+||sohu.com/ctr.gif?
+||sohu.com/ip/$script
+||sohu.com/pv.js
+||sohu.com/pv?
+||sohu.com/qfpc.gif?
+||sohu.com/wrating
+||js.sohu.com/pv.js
+||sohu.com.cn/ppp/bms/bms.popup.
+||sohu.com/adgtr/
+||sohu.com/api/labs/hotnews/c/load?
+||sohu.com/api/labs/mp/load?
+||sohu.com/api/photo/photo_bottom.json
+||sohu.com/interaction/get/
+||sohu.com/mdevp/*-advert/
+||js.sohu.com/pv.js
+||sohu.com.cn/hdpb.gif?
+||sohu.com/clk.gif?
+||sohu.com/count/
+||sohu.com/ctr.gif?
+||sohu.com/ip/$script
+||sohu.com/pv.js
+||sohu.com/pv?
+||sohu.com/qfpc.gif?
+||sohu.com/wrating
+||sohu.com.cn/ppp/bms/bms.popup.
+||sohu.com/adgtr/
+||sohu.com/api/labs/hotnews/c/load?
+||sohu.com/api/labs/mp/load?
+||sohu.com/api/photo/photo_bottom.json
+||sohu.com/interaction/get/
+||sohu.com/mdevp/*-advert/
+
+# ------屏蔽搜狗输入法广告-----------------------
+127.0.0.1 safe.ie.sogou.com
+127.0.0.1 vinci.ie.sogou.com
+127.0.0.1 cronus.ie.sogou.com
+127.0.0.1 get.ie.sogou.com
+127.0.0.1 safe.ie.sogou.com
+127.0.0.1 get.sogou.com
+127.0.0.1 p.lu.sogou.com
+127.0.0.1 ping.pinyin.sogou.com
+127.0.0.1 p.inte.sogou.com
+127.0.0.1 ping.acc.sogou.com
+127.0.0.1 pbd.sogou.com
+127.0.0.1 pb.sogou.com
+127.0.0.1 iwan.sogou.com
+127.0.0.1 irnvf.lu.sogou.com
+127.0.0.1 get.sogou.com
+127.0.0.1 shouji.sougou.com
+127.0.0.1 vjoz.lu.sogou.com
+127.0.0.1 vps.inte.sogou.com
+127.0.0.1 wan.sogou.com
+127.0.0.1 wb.brand.sogou.com
+127.0.0.1 wds.inte.sogoucdn.com
+127.0.0.1 lk.brand.sogou.com
+127.0.0.1 pull.push.sogou.com
+127.0.0.1 s.go.sohu.com
+127.0.0.1 cpc.brand.sogou.com
+127.0.0.1 cpc.sogou.com
+127.0.0.1 cpc.sohu.com
+127.0.0.1 qpb.sohu.com
+127.0.0.1 t.ads.sohu.com
+127.0.0.1 t.go.sohu.com
+127.0.0.1 txt.go.sohu.com
+127.0.0.1 x1.go.sohu.com
+127.0.0.1 xls.go.sohu.com
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 ad.mail.sohu.com
+127.0.0.1 adnet.sohu.com
+127.0.0.1 s.go.sohu.com
+127.0.0.1 suvset.sohu.com
+127.0.0.1 3rd.t.sohu.com
+127.0.0.1 888.tv.sohu.com
+127.0.0.1 xls.go.sohu.com
+127.0.0.1 x1.go.sohu.com
+127.0.0.1 txt.go.sohu.com
+127.0.0.1 corp.sohu.com
+||sogou.com/cl?
+||sogou.com/pv?
+||sogou.com/images.sohu.com/bill
+||sogou-inc.com/AdvPreview.
+||sogou.*/js7/forAppDown.js
+||sogou.com/acquireAdvertise.
+||sogou.com/adlist?
+||sogou.com/amdjs/release/common/act_all_ad.
+||sogou.com/ask?id=
+||sogou.com/athena/
+||sogou.com/GetAdv.
+||sogou.com/html/ext/agentsdk.js
+||sogou.com/img_logo/wp.js
+||sogou.com/uniplan/?pageID=
+||sogou.com/wap_ask_service?
+||sogoucdn.com/dhfe/
+||sogoucdn.com/imgu/*.swf
+||sogoucdn.com/nstatic/js/bottom_shopping.
+||sogoucdn.com/nstatic/js/showtime.js
+||sogoucdn.com/nstatic/js/tmallskin_
+||sogou.com/images.sohu.com/bill
+||sogou-inc.com/AdvPreview.
+||sogou.*/js7/forAppDown.js
+||sogou.com/acquireAdvertise.
+||sogou.com/adlist?
+||sogou.com/amdjs/release/common/act_all_ad.
+||sogou.com/ask?id=
+||sogou.com/athena/
+||sogou.com/GetAdv.
+||sogou.com/html/ext/agentsdk.js
+||sogou.com/img_logo/wp.js
+||sogou.com/uniplan/?pageID=
+||sogou.com/wap_ask_service?
+||sogoucdn.com/dhfe/
+||sogoucdn.com/imgu/*.swf
+||sogoucdn.com/nstatic/js/bottom_shopping.
+||sogoucdn.com/nstatic/js/showtime.js
+||sogoucdn.com/nstatic/js/tmallskin_
+||sogou.com/cl?
+||sogou.com/pv?
+
+# ------屏蔽新浪的广告---------------------------
+127.0.0.1 saxn.sina.com.cn
+127.0.0.1 s3.pfp.sina.net
+
+
+
+# ------屏蔽中华网广告---------------------------
+127.0.0.1 rank.china.com
+127.0.0.1 rankhit.china.com
+127.0.0.1 rank.china.com
+
+
+
+# ------屏蔽mediav广告--------------------------
+127.0.0.1 cjhd.mediav.com
+127.0.0.1 s3m.mediav.com
+127.0.0.1 show-3.mediav.com
+127.0.0.1 static.mediav.com
+127.0.0.1 pages-juxiao.mediav.com
+127.0.0.1 show-g.mediav.com
+127.0.0.1 max-l.mediav.com
+
+
+
+# ------屏蔽迅雷的广告---------------------------
+127.0.0.1 act.niu.xunlei.com
+127.0.0.1 adsp.xunlei.com
+127.0.0.1 admin.static.xl9.xunlei.com
+127.0.0.1 api-xl9-ssl.xunlei.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
+127.0.0.1 dm.xiazaibao.xunlei.com
+127.0.0.1 etl-xlmc-ssl.xunlei.com
+127.0.0.1 home.xl9.xunlei.com
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 misc.xl9.xunlei.com
+127.0.0.1 misc-xl9-ssl.xunlei.com
+127.0.0.1 pc.xunlei.com
+127.0.0.1 plugin.xl7.xunlei.com
+127.0.0.1 resource.niu.xunlei.com
+127.0.0.1 static2.ssp.xunlei.com
+127.0.0.1 static-xl9-ssl.xunlei.com
+127.0.0.1 upgrade.xl9.xunlei.com
+127.0.0.1 v2.boxcfg.niu.xunlei.com
+127.0.0.1 movie.xunlei.com
+127.0.0.1 advstat.xunlei.com
+127.0.0.1 dl.xunlei.com
+127.0.0.1 i.xunlei.com
+127.0.0.1 kkpgv.xunlei.com
+127.0.0.1 mtips.xunlei.com
+127.0.0.1 pstatic.xunlei.com
+127.0.0.1 dynamic.kankan.xunlei.com
+127.0.0.1 js.kankan.xunlei.com
+127.0.0.1 statis.kankan.xunlei.com
+127.0.0.1 biz.sandai.net
+127.0.0.1 biz2.sandai.net
+127.0.0.1 biz3.sandai.net
+127.0.0.1 biz4.sandai.net
+127.0.0.1 biz5.sandai.net
+127.0.0.1 biz6.sandai.net
+127.0.0.1 mediapv.sandai.net
+127.0.0.1 mpv.sandai.net
+127.0.0.1 mcfg.sandai.net
+
+
+# ------屏蔽凤凰网广告---------------------------
+127.0.0.1 	c0.ifengimg.com
+127.0.0.1 d.ifeng.com
+127.0.0.1 amch.questionmarket.com
+127.0.0.1 pix04.revsci.net
+127.0.0.1 stadig.ifeng.com
+127.0.0.1 c1.ifengimg.com
+127.0.0.1 iis1.deliver.ifeng.com
+
+
+
+# ------屏蔽腾讯网广告---------------------------
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 pgdt.gtimg.cn
+127.0.0.1 a.xnimg.cn
+127.0.0.1 ad.qq.com
+127.0.0.1 adping.qq.com
+127.0.0.1 adsclick.qq.com
+127.0.0.1 adsfile.qq.com
+127.0.0.1 adshmct.qq.com
+127.0.0.1 adshmmsg.qq.com
+127.0.0.1 adslvfile.qq.com
+127.0.0.1 adslvseed.qq.com
+127.0.0.1 adsqqclick.qq.com
+127.0.0.1 adsrich.qq.com
+127.0.0.1 c.l.qq.com
+127.0.0.1 jingjia.qq.com
+127.0.0.1 pingfore.qq.com
+127.0.0.1 rich.qq.com
+127.0.0.1 union.qq.com
+127.0.0.1 w.l.qq.com
+127.0.0.1 adshmct.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 fodder.qq.com
+127.0.0.1 adshmct.qq.com
+127.0.0.1 hm.l.qq.com
+127.0.0.1 adshmmsg.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 hao.qq.com
+127.0.0.1 livec.l.qq.com
+127.0.0.1 livem.l.qq.com
+127.0.0.1 livep.l.ott.video.qq.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 lives.l.ott.video.qq.com
+127.0.0.1 lives.l.qq.com
+127.0.0.1 otheve.beacon.qq.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 oth.update.mdt.qq.com
+127.0.0.1 pcbrowser.dd.qq.com
+127.0.0.1 pinghot.qq.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 p.l.qq.com
+127.0.0.1 pmir.3g.qq.com
+127.0.0.1 pms.mb.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 qqshow2-item.qq.com
+127.0.0.1 qss-client.qq.com
+127.0.0.1 recmd.html5.qq.com
+127.0.0.1 report.huatuo.qq.com
+127.0.0.1 rh.qq.com
+127.0.0.1 rich.qq.com
+127.0.0.1 rm.gdt.qq.com
+127.0.0.1 rs1.qq.com
+127.0.0.1 rs2.qq.com
+127.0.0.1 s.gdt.qq.com
+127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 adsqqclick.qq.com
+127.0.0.1 adsrich.qq.com
+127.0.0.1 soft.tbs.imtt.qq.com
+
+# -----------------csdn------------
+127.0.0.1 mi.gdt.qq.com      
+127.0.0.1 pp.myapp.com       
+#127.0.0.1 qzonestyle.gtimg.cn
+127.0.0.1 pgdt.gtimg.cn      
+127.0.0.1 v.gdt.qq.com   
+
+# ----------------github------------
+127.0.0.1 btrace.qq.com
+127.0.0.1 c.isdspeed.qq.com
+127.0.0.1 pingjs.qq.com
+127.0.0.1 pingtcss.qq.com
+127.0.0.1 tajs.qq.com
+127.0.0.1 trace.qq.com
+127.0.0.1 c.l.qq.com
+127.0.0.1 l.qq.com
+#屏蔽腾讯QQ广告代码
+127.0.0.1 fodder.qq.com
+127.0.0.1 adshmct.qq.com
+127.0.0.1 hm.l.qq.com
+127.0.0.1 adshmmsg.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 v.gdt.qq.com
+127.0.0.1 s.gdt.qq.com
+127.0.0.1 imc.l.qq.com
+127.0.0.1 client.show.qq.com
+127.0.0.1 user1.game.qq.com
+127.0.0.1 c.gdt.qq.com
+127.0.0.1 q.i.gdt.qq.com
+127.0.0.1 tj.b.qq.com
+127.0.0.1 dir.minigame.qq.com
+127.0.0.1 if.mingxing.qq.com
+127.0.0.1 showwxml.qq.com
+127.0.0.1 2052.flash2-http.qq.com
+127.0.0.1 img1.sj.qq.com
+127.0.0.1 ws.sj.qq.com
+127.0.0.1 scdown.qq.com
+#127.0.0.1 img1.gtimg.com
+127.0.0.1 pinghot.qq.com
+127.0.0.1 pingfore.tenpay.com
+127.0.0.1 jqmt.qq.com
+127.0.0.1 gu.qlogo.cn
+127.0.0.1 py.qlogo.cn
+127.0.0.1 py2.qlogo.cn
+127.0.0.1 bugreportv2.qq.com
+127.0.0.1 ex.qq.com
+127.0.0.1 cgi.connect.qq.com
+#屏蔽腾讯广告代码
+127.0.0.1 adslvfile.qq.com
+127.0.0.1 adsfile.qq.com
+127.0.0.1 play.qq.com
+127.0.0.1 adslvfile.qq.com
+127.0.0.1 tj.video.qq.com
+127.0.0.1 vv.video.qq.com
+127.0.0.1 livep.l.qq.com
+127.0.0.1 rcgi.video.qq.com
+127.0.0.1 aid.video.qq.com
+127.0.0.1 pinghot.qq.com
+127.0.0.1 54kfqq.com
+127.0.0.1 qqbm.zhuiying.net
+127.0.0.1 qqbmad.mycode8.net
+127.0.0.1 vhotlxp.video.qq.com
+127.0.0.1 livem.l.qq.com
+#click_url 聊天窗口左下角文字广告
+127.0.0.1  imc.l.qq.com
+127.0.0.1 adsqqclick.qq.com
+
+||wifi.qq.com^$important
+
+
+______________________________________________________
+#tv.qq.com
+127.0.0.1 aiseet.aa.atianqi.com
+127.0.0.1 dp3.play.aiseet.atianqi.com
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 vmindhls.tc.qq.com
+127.0.0.1 monitor-uu.play.aiseet.atianqi.com
+127.0.0.1 sdkconfig.play.aiseet.atianqi.com
+127.0.0.1 livew.l.qq.com
+127.0.0.1 c.l.qq.com
+127.0.0.1 mdevstat.qqlive.qq.com
+
+
+
+
+#corel
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 sws.corel.com
+127.0.0.1 dam.corel.com
+
+
+# -----屏蔽 Adobe Flsh Player 广告----
+127.0.0.1 geo2.adobe.com
+127.0.0.1 flash.2144.com
+127.0.0.1 www.2144.cn
+127.0.0.1 www.flash.cn
+127.0.0.1 game.falsh.cns
+127.0.0.1 stage.flash.cn
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+
+# ------小米广告-----------------------
+127.0.0.1	 sdkauth.hpplay.cn
+127.0.0.1	 adeng.hpplay.cn
+127.0.0.1	 ad.hpplay.cn
+127.0.0.1	 conf.hpplay.cn
+127.0.0.1	 fix.hpplay.cn
+127.0.0.1	 adcdn.hpplay.cn
+127.0.0.1	 sl.hpplay.cn
+127.0.0.1	 rp.hpplay.cn
+127.0.0.1	 ad.mi.com
+127.0.0.1	 ad.xiaomi.com
+127.0.0.1	 ad1.xiaomi.com
+127.0.0.1	 appstore.cdn.pandora.xiaomi.com
+127.0.0.1	 appstore.pandora.xiaomi.com
+127.0.0.1	 api.ad.xiaomi.com
+127.0.0.1	 ad.doubleclick.net
+127.0.0.1	 bss.pandora.xiaomi.com
+127.0.0.1	 b.netcheck.gallery.pandora.xiaomi.com
+127.0.0.1	 broker.mqtt.pandora.xiaomi.com
+127.0.0.1	 config.kuyun.com
+127.0.0.1	 dvb.pandora.xiaomi.com
+127.0.0.1	 de.pandora.xiaomi.com
+127.0.0.1	 data.mistat.xiaomi.com
+127.0.0.1	 f1.market.xiaomi.com
+127.0.0.1	 f2.market.xiaomi.com
+127.0.0.1	 f3.market.xiaomi.com
+127.0.0.1	 f4.market.xiaomi.com
+127.0.0.1	 f5.market.xiaomi.com
+127.0.0.1	 f1.market.mi-img.com
+127.0.0.1	 f2.market.mi-img.com
+127.0.0.1	 f3.market.mi-img.com
+127.0.0.1	 f4.market.mi-img.com
+127.0.0.1	 f5.market.mi-img.com
+127.0.0.1	 file.xmpush.xiaomi.com
+127.0.0.1	 gvod.aiseejapp.atianqi.com
+127.0.0.1	 g.dtv.cn.miaozhan.com
+127.0.0.1	 gallery.pandora.xiaomi.com
+127.0.0.1	 jellyfish.pandora.xiaomi.com
+127.0.0.1	 logonext.tv.kuyun.com
+127.0.0.1	 mishop.pandora.xiaomi.com
+127.0.0.1	 milink.pandora.xiaomi.com
+127.0.0.1	 misc.pandora.xiaomi.com
+127.0.0.1	 mitv.tracking.miui.com
+127.0.0.1	 metok.sys.miui.com
+127.0.0.1	 new.api.ad.xiaomi.com
+127.0.0.1	 pandora.mi.com
+127.0.0.1	 redirect.pandora.xiaomi.com
+127.0.0.1	 register.xmpush.xiaomi.com
+127.0.0.1	 resolver.msg.xiaomi.net
+127.0.0.1	 r.browser.miui.com
+127.0.0.1	 stat.pandora.xiaomi.com
+127.0.0.1	 sdkconfig.ad.xiaomi.com
+127.0.0.1	 staging.ai.api.xiaomi.com
+127.0.0.1	 tracking.miui.com
+127.0.0.1	 tv.weixin.pandora.xiaomi.com
+127.0.0.1	 tvmanager.pandora.xiaomi.com
+127.0.0.1	 tvmgr.pandora.xiaomi.com
+127.0.0.1	 tat.pandora.xiaomi.com
+127.0.0.1	 t7z.cupid.ptqy.gitv.tv
+127.0.0.1	 upgrade.mishop.pandora.xiaomi.com
+127.0.0.1	 v.admaster.com.cn
+127.0.0.1	 api.cupid.ptqy.gitv.tv
+127.0.0.1	 openapi.vip.ptqy.gitv.tv
+127.0.0.1	 f1.market.mi-img.com
+127.0.0.1	 f2.market.mi-img.com
+127.0.0.1	 f3.market.mi-img.com
+127.0.0.1	 f4.market.mi-img.com
+127.0.0.1	 f5.market.mi-img.com
+127.0.0.1	 f1.market.xiaomi.com
+127.0.0.1	 f2.market.xiaomi.com
+127.0.0.1	 f3.market.xiaomi.com
+127.0.0.1	 f4.market.xiaomi.com
+127.0.0.1	 f5.market.xiaomi.com
+	
+	
+127.0.0.1	 d.g.mi.com
+127.0.0.1	 migc.g.mi.com
+127.0.0.1	 migcreport.g.mi.com
+127.0.0.1	 mis.g.mi.com
+127.0.0.1	 sg.a.stat.mi.com
+127.0.0.1	 resolver.msg.xiaomi.net
+127.0.0.1	 resolver.gslb.mi-idc.com
+127.0.0.1	 staging.admin.e.mi.com
+127.0.0.1	 security.browser.miui.com
+127.0.0.1	 fcanr.tracking.miui.com
+127.0.0.1	 tracking.miui.com
+127.0.0.1	 adinfo.ra1.xlmc.sec.miui.com
+127.0.0.1	 info.sec.miui.com
+127.0.0.1	 a.stat.xiaomi.com
+127.0.0.1	 mlog.search.xiaomi.net
+	
+127.0.0.1	g.dtv.cn.miaozhan.com
+127.0.0.1	gallery.pandora.xiaomi.com
+127.0.0.1	jellyfish.pandora.xiaomi.com
+127.0.0.1	logonext.tv.kuyun.com
+127.0.0.1	mishop.pandora.xiaomi.com
+127.0.0.1	milink.pandora.xiaomi.com
+127.0.0.1	misc.pandora.xiaomi.com
+127.0.0.1	mitv.tracking.miui.com
+127.0.0.1	metok.sys.miui.com
+127.0.0.1	new.api.ad.xiaomi.com
+127.0.0.1	pandora.mi.com
+127.0.0.1	redirect.pandora.xiaomi.com
+127.0.0.1	register.xmpush.xiaomi.com
+127.0.0.1	resolver.msg.xiaomi.net
+127.0.0.1	r.browser.miui.com
+127.0.0.1	stat.pandora.xiaomi.com
+127.0.0.1	sdkconfig.ad.xiaomi.com
+127.0.0.1	staging.ai.api.xiaomi.com
+127.0.0.1	tracking.miui.com
+127.0.0.1	tv.weixin.pandora.xiaomi.com
+127.0.0.1	tvmanager.pandora.xiaomi.com
+127.0.0.1	tvmgr.pandora.xiaomi.com
+127.0.0.1	tat.pandora.xiaomi.com
+127.0.0.1	t7z.cupid.ptqy.gitv.tv
+127.0.0.1	upgrade.mishop.pandora.xiaomi.com
+127.0.0.1	v.admaster.com.cn
+
+
+
+
+#cm-ksmobile
+127.0.0.1 ads.dh.duba.com
+#cm-wps
+127.0.0.1 ad.docer.wps.cn
+127.0.0.1 docerad.wps.cn
+127.0.0.1 gou.wps.cn
+127.0.0.1 img1.mini.cache.wps.cn
+127.0.0.1 img2.mini.cache.wps.cn
+127.0.0.1 info.wps.cn
+127.0.0.1 minfo.wps.cn
+127.0.0.1 notify.wps.cn
+127.0.0.1 pcfg.wps.cn
+127.0.0.1 push.wps.cn
+127.0.0.1 wpsweb-dc.wps.cn
+127.0.0.1 up.wps.kingsoft.com
+127.0.0.1 bannera.kingsoft-office-service.com
+127.0.0.1 cloudservice15.kingsoft-office-service.com
+127.0.0.1 cloudservice19.kingsoft-office-service.com
+127.0.0.1 cloudservice22.kingsoft-office-service.com
+127.0.0.1 cloudservice28.kingsoft-office-service.com
+127.0.0.1 rating6.kingsoft-office-service.com
+127.0.0.1 bole.shangshufang.ksosoft.com
+127.0.0.1 ic.ksosoft.com
+127.0.0.1 pc.uf.ksosoft.com
+127.0.0.1 pixiu.shangshufang.ksosoft.com
+
+127.0.0.1 img.gou.wpscdn.cn
+127.0.0.1 news.op.wpscdn.cn
+
+
+
+
+
+
+
+
+
+# ------kuwo-----------------------
+127.0.0.1 log.kuwo.cn
+127.0.0.1 mobilead.kuwo.cn
+
+
+
+
+
+# ------xshell-----------------------
+127.0.0.1 transact.netsarang.com
+127.0.0.1 update.netsarang.com
+127.0.0.1 www.netsarang.com
+127.0.0.1 www.netsarang.co.kr
+127.0.0.1 sales.netsarang.com
+
+
+
+
+
+# ------weibo----------------------
+127.0.0.1 alitui.weibo.com
+127.0.0.1 s.alitui.weibo.com
+127.0.0.1 game.weibo.com
+127.0.0.1 hits.sinajs.cn
+127.0.0.1 rs.sinajs.cn
+127.0.0.1 game.weibo.com
+127.0.0.1 gw6.push.mcp.weibo.cn
+127.0.0.1 zc.biz.weibo.com
+127.0.0.1 gw5.push.mcp.weibo.cn
+127.0.0.1 game.weibo.cn
+127.0.0.1 biz.weibo.com
+127.0.0.1 zymo.mps.weibo.com
+127.0.0.1 s.alitui.weibo.com
+127.0.0.1 alitui.weibo.com
+127.0.0.1 m.game.weibo.cn
+127.0.0.1 widget.weibo.com
+127.0.0.1 c.biz.weibo.com
+127.0.0.1 c.wcpt.biz.weibo.com
+127.0.0.1 ad3.sina.com.cn
+127.0.0.1 sdkapp.mobile.sina.cn
+127.0.0.1 wbclick.mobile.sina.cn
+127.0.0.1 d1.sina.com.cn
+127.0.0.1 ads.sina.com
+127.0.0.1 r.dmp.sina.cn
+127.0.0.1 d8.sina.com.cn
+127.0.0.1 woocall.sina.com.cn
+127.0.0.1 staticadm.leju.sina.com.cn
+127.0.0.1 1276.adsina.allyes.com
+127.0.0.1 sina.allyes.com
+127.0.0.1 oascentral.sina.com.hk
+127.0.0.1 twsina.allyes.com
+127.0.0.1 adm.leju.sina.com.cn
+127.0.0.1 contentrecommend-out.mobile.sina.cn
+127.0.0.1 oascentral.sina.com
+127.0.0.1 count.video.sina.com.cn
+127.0.0.1 d2.sina.com.cn
+127.0.0.1 ad4.sina.com
+127.0.0.1 palmnews.sina.cn
+127.0.0.1 adimg.mobile.sina.cn
+127.0.0.1 d0.sina.com.cn
+127.0.0.1 wbapp.mobile.sina.cn
+127.0.0.1 161.adsina.allyes.com
+127.0.0.1 pfp.sina.com.cn
+127.0.0.1 d00.sina.com.cn
+127.0.0.1 60.adsina.allyes.com
+127.0.0.1 1148.adsina.allyes.com
+127.0.0.1 rs.sinajs.cn
+127.0.0.1 1100.adsina.allyes.com
+127.0.0.1 sina.yinstar.org
+127.0.0.1 ad4.sina.com.cn
+127.0.0.1 slog.sina.cn
+127.0.0.1 int.dpool.sina.com.cn
+127.0.0.1 44.adsina.allyes.com
+127.0.0.1 wbpctips.mobile.sina.cn
+127.0.0.1 s.img.mix.sina.com.cn
+127.0.0.1 appgift.sinaapp.com
+127.0.0.1 adimages.sina.com.hk
+127.0.0.1 adsina.allyes.com
+127.0.0.1 trends.mobile.sina.cn
+127.0.0.1 api.apps.sina.cn
+127.0.0.1 img.adbox.sina.com.cn
+127.0.0.1 154.adsina.allyes.com
+127.0.0.1 counter.sina.com.cn
+127.0.0.1 45.adsina.allyes.com
+127.0.0.1 d9.sina.com.cn
+127.0.0.1 appsupdate.sinaapp.com
+127.0.0.1 d7.sina.com.cn
+127.0.0.1 d6.sina.com.cn
+127.0.0.1 pfpip.sina.com
+127.0.0.1 motu.p4p.sina.com.cn
+127.0.0.1 d5.sina.com.cn
+127.0.0.1 newspush.sinajs.cn
+127.0.0.1 1251.adsina.allyes.com
+127.0.0.1 d4.sina.com.cn
+127.0.0.1 d3.sina.com.cn
+127.0.0.1 beacon.sina.com.cn
+
+
+
+
+# ---------------------bilibili----------------------
+127.0.0.1 dns-1226121.test.bilibili.cc
+127.0.0.1 stat.bilibili.cn
+
+
+
+# ----------------------优酷去广告------------------
+127.0.0.1  static.atm.youku.com
+127.0.0.1 push.m.youku.com
+127.0.0.1 val.atm.youku.com
+127.0.0.1 valb.atm.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 valt.atm.youku.com
+127.0.0.1 v2html.atm.youku.com
+127.0.0.1 atm.youku.com
+127.0.0.1 Fvid.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 valb.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valo.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 lstat.youku.com
+127.0.0.1 speed.lstat.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 static.lstat.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 vid.atm.youku.com
+127.0.0.1 walp.atm.youku.com
+127.0.0.1 ad.atm.youku.com
+127.0.0.1 atm.youku.com
+127.0.0.1 count.atm.youku.com
+127.0.0.1 e.stat.youku.com
+127.0.0.1 fvid.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 hz.lstat.youku.com
+127.0.0.1 l.youku.com
+127.0.0.1 lstat.youku.com
+127.0.0.1 nc.youku.com
+127.0.0.1 notice.youku.com
+127.0.0.1 passport-log.youku.com
+127.0.0.1 speed.lstat.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 stuff.cdn.biddingx.com
+127.0.0.1 cas.sh.cn.criteo.com
+
+
+
+---------------csdn----------------------
+127.0.0.1 ads.csdn.net
+127.0.0.1 mpb2.iteye.com
+127.0.0.1 cee2.iteye.com
+
+
+#---------------ruanmei---------------------
+127.0.0.1 m.ruanmei.com
+127.0.0.1 d.ruanmei.com
+127.0.0.1 down.ruanmei.com
+127.0.0.1 go.ruanmei.com
+
+
+
+#---------------360----------------------
+127.0.0.1 hao.360.cn
+#127.0.0.1 ad.dev.360.cn
+127.0.0.1 360game.360.cn
+127.0.0.1 game.360.cn
+127.0.0.1 360qhcdn.com
+127.0.0.1 h5.mse.360.cn
+127.0.0.1 g.sdk.look.360.cn
+#127.0.0.1 webcdn.360qhcdn.com
+127.0.0.1 act.commercial.shouji.360.cn
+127.0.0.1 adapi.shouji.360.cn
+127.0.0.1 ad.gamebox.360.cn
+127.0.0.1 api.shuaji.360.cn
+127.0.0.1 api.so.lianmeng.360.cn
+127.0.0.1 click.stat.hao.360.cn
+127.0.0.1 dev.tg.wan.360.cn
+127.0.0.1 down.360.cn
+127.0.0.1 down.360safe.com
+127.0.0.1 huid.ad.360.cn
+127.0.0.1 huodong.ios.shouji.360.cn
+127.0.0.1 ini.update.360safe.com
+127.0.0.1 inst.360safe.com
+127.0.0.1 kuaikan.netmon.360safe.com
+127.0.0.1 leak.360.cn
+127.0.0.1 mbs.hao.360.cn
+127.0.0.1 msg.shouji.360.cn
+127.0.0.1 msoftdl.360.cn
+127.0.0.1 openbox.mobilem.360.cn
+127.0.0.1 pdown.stat.360safe.com
+127.0.0.1 pub.se.360.cn
+127.0.0.1 rd.wan.360.cn
+127.0.0.1 sdk.look.360.cn
+127.0.0.1 s.360.cn
+127.0.0.1 shouji.360.cn
+127.0.0.1 show.look.360.cn
+127.0.0.1 s.lianmeng.360.cn
+127.0.0.1 soft.data.weather.360.cn
+127.0.0.1 stat.360safe.com
+127.0.0.1 stat.m.360.cn
+127.0.0.1 s.union.360.cn
+127.0.0.1 update.360safe.com
+127.0.0.1 dl.360.cn
+||wifi.360.com^$important
+||wifi.*.360.com^$important
+||wifi.360.cn^$important
+||wifi.*.360.cn^$important
+
+
+#--------游戏---------------------
+||*.2214.cn^
+||*.2214.com^
+||*.4399.com^
+||*.7k7k.com^
+||*.4399.com.cn^
+||*game.360.cn^
+||s.360.cn^
+||360game.360.cn^
+||*.haosou.com^
+||*mgbdtg.499youxi.com 
+||*openbox.mobilem.360.cn
+||*msoftdl.360.cn
+||*499youxi.com
+||*xiaoyouxi.360.cn
+||*wan.qwpeo.net
+||*adv.myshow800.com
+||*game.360.cn^
+||*.4399.com^
+||*.7k7k.com^
+||youxi.2345.com^
+||youxi.360.cn^$important
+||*.9669.cn^$important
+||*.3199.cn^$important
+||*.37gogo.com^$important
+||*.17173.com^$important
+||*.chenml.work^
+||*.7399.com^
+||*.qwpeo.net^
+||*.18183.com^
+||*.myshow800.com^
+||*.7399.com^
+||*..online-game.com.cn^
+||xyx.hao123.com^
+||xyx.7399.com^
+
+
+
+
+
+
+
+# ------屏蔽2345-----------------------
+127.0.0.1 update.minipage.2345.com
+127.0.0.1 update.2345.com
+127.0.0.1 jifendownload.2345.cn
+127.0.0.1 xiaoyouxi.2345.com
+||*.2345.cc^
+||*.2345.org^
+
+# ------屏蔽三星-----------------------
+||samsungosp.com.cn^$important
+||config.anyan.com^$important
+||img.samsungapps.com^$important
+||cn-ureca.galaxyappstore.com^$important
+
+
+
+#iqiyi
+127.0.0.1 api.cupid.iqiyi.com
+127.0.0.1 api.yuedu.iqiyi.com
+127.0.0.1 c.uaa.iqiyi.com
+127.0.0.1 cloudpush.iqiyi.com
+127.0.0.1 cm.passport.iqiyi.com
+127.0.0.1 gamecenter.iqiyi.com
+127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 mbdlog.iqiyi.com
+127.0.0.1 msg.iqiyi.com
+127.0.0.1 msga.cupid.iqiyi.com
+127.0.0.1 nl.notice.iqiyi.com
+127.0.0.1 notice.iqiyi.com
+127.0.0.1 policy.video.iqiyi.com
+127.0.0.1 static.g.iqiyi.com
+127.0.0.1 t7z.cupid.iqiyi.com
+127.0.0.1 nl.rcd.iqiyi.com
+#iqiyi-gitv
+127.0.0.1 api.cupid.ptqy.gitv.tv
+127.0.0.1 msg.video.ptqy.gitv.tv
+127.0.0.1 msg2.video.ptqy.gitv.tv
+127.0.0.1 nl.rcd.ptqy.gitv.tv
+127.0.0.1 msg.c002.ottcn.com
+#iqiyi-paopao
+127.0.0.1 emoticon.sns.iqiyi.com
+127.0.0.1 hotchat-im.iqiyi.com
+127.0.0.1 paopao.iqiyi.com
+127.0.0.1 tracker.sns.iqiyi.com
+127.0.0.1 paopao0.qiyipic.com
+127.0.0.1 paopao1.qiyipic.com
+127.0.0.1 paopao2.qiyipic.com
+127.0.0.1 paopao3.qiyipic.com
+#iqiyi-pps
+127.0.0.1 count.game.pps.tv
+127.0.0.1 game.pps.tv
+127.0.0.1 static.g.ppstream.com
+127.0.0.1 qosp.msg.71.am
+127.0.0.1 msga.71.am
+127.0.0.1 noxagile.duapp.com
+#iqiyi-qiyi
+127.0.0.1 api.cupid.qiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 msg2.video.qiyi.com
+
+
+
+
+
+
+# ------屏蔽其他的广告-------------------------
+127.0.0.1 hdc.maxli.cn
+127.0.0.1 gp.zaiyunli.cn
+127.0.0.1 img.findqc.com
+127.0.0.1 rabc1.iteye.com
+
+127.0.0.1 show.findqc.com
+127.0.0.1 j.baminw.cn
+127.0.0.1 qhres.com
+127.0.0.1 baomitu.com
+127.0.0.1 fanglei520.oicchina.com
+
+
+||*.liebao.cn^$important
+
+
+||*.7k7k.com
