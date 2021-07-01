@@ -114,5 +114,5 @@ add address=tvmanager.pandora.xiaomi.com list=xiaomi
 add address=tvmgr.pandora.xiaomi.com list=xiaomi
 add address=tat.pandora.xiaomi.com list=xiaomi
 add address=t7z.cupid.ptqy.gitv.tv list=xiaomi
-add address=upgrade.mishop.pandora.xiaomi.com
+add address=upgrade.mishop.pandora.xiaomi.com list=xiaomi
 add address=v.admaster.com list=xiaomi
