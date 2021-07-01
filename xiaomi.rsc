@@ -34,7 +34,7 @@ add address=f4.market.mi-img.com list=xiaomi
 add address=f5.market.mi-img.com list=xiaomi
 add address=file.xmpush.xiaomi.com list=xiaomi
 add address=gvod.aiseejapp.atianqi.com list=xiaomi
-add address=g.dtv.cn list=xiao
+add address=g.dtv.cn list=xiaomi
 add address=mi.miaozhan.com list=xiaomi
 add address=gallery.pandora.xiaomi.com list=xiaomi
 add address=jellyfish.pandora.xiaomi.com list=xiaomi
@@ -115,4 +115,4 @@ add address=tvmgr.pandora.xiaomi.com list=xiaomi
 add address=tat.pandora.xiaomi.com list=xiaomi
 add address=t7z.cupid.ptqy.gitv.tv list=xiaomi
 add address=upgrade.mishop.pandora.xiaomi.com
-add address=v.admaster.com list=xiaomi.cn
+add address=v.admaster.com list=xiaomi
